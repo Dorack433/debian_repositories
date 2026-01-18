@@ -1,12 +1,1 @@
 
-tracker-extract-3-files.1000/
-tracker-extract-3-files.112/
-.X0-lock
-.X1024-lock
-.X1025-lock
-.X11-unix/
-.X1-lock
-.XIM-unix/
-dorack@shannon:~$ ls /tmp/.X11-unix/
-X0  X1  X1024  X1025
-dorack@shannon:~$ export display:
